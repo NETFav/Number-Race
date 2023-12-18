@@ -8,7 +8,7 @@ How to Install :
 🟢 Wait for a minute, it should be download within a seconds, it may vary depends on your network speed and area.
 🟢 After successfull download, go to your "File" and go to your download, the apk should be place there.
 🟢 If you already find it, click and install it from your device.
-🟢 The game should apper in your screen.
+🟢 The game should appear in your screen.
 
 How to Play :
 
