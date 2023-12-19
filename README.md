@@ -6,7 +6,7 @@ Game Description : "Number Race" is a cutting-edge mobile game tailor-made for m
 
 How to Install :
 
-🟢 Simply click the "Number Race.apk".
+🟢 Simply click the "Number Race.apk".</br>
 🟢 Click the three dots and click "Download".
 🟢 Wait for a minute, it should be download within a seconds, it may vary depends on your network speed and area.
 🟢 After successfull download, go to your "File" and go to your download, the apk should be place there.
