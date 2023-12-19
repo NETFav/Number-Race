@@ -7,11 +7,11 @@ Game Description : "Number Race" is a cutting-edge mobile game tailor-made for m
 How to Install :
 
 🟢 Simply click the "Number Race.apk".</br>
-🟢 Click the three dots and click "Download".
-🟢 Wait for a minute, it should be download within a seconds, it may vary depends on your network speed and area.
-🟢 After successfull download, go to your "File" and go to your download, the apk should be place there.
-🟢 If you already find it, click and install it from your device.
-🟢 The game should appear in your screen.
+🟢 Click the three dots and click "Download".</br>
+🟢 Wait for a minute, it should be download within a seconds, it may vary depends on your network speed and area.</br>
+🟢 After successfull download, go to your "File" and go to your download, the apk should be place there.</br>
+🟢 If you already find it, click and install it from your device.</br>
+🟢 The game should appear in your screen.</br>
 
 How to Play :
 
@@ -19,7 +19,7 @@ How to Play :
 
 Specification :
 
-🍭 Android 9 Or Up (Lower than this, may cause problem/issue/error)
+🍭 Android 9 Or Up (Lower than this, may cause problem/issue/error)</br>
 🍭 Atleast 20mb for storage
 
 NOTE : The game is under development, some of you may experience (problems/issue/error).
@@ -28,6 +28,6 @@ If you can't download the game from here you can download it from here : https:/
 
 If you have any feedbacks/suggestions/problems you can reach me below.
 
-FB Page : https://web.facebook.com/profile.php?id=100087919354776
+FB Page : https://web.facebook.com/profile.php?id=100087919354776</br>
 Email : codedev1212@gmail.com
 
