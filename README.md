@@ -1,7 +1,4 @@
 # Number-Race
-
-🎮 Version 1.0
-
 Game Description : "Number Race" is a cutting-edge mobile game tailor-made for math enthusiasts who crave the excitement of basic arithmetic operations. Immerse yourself in a dynamic world that seamlessly blends the thrill of a race with the challenge of solving arithmetic problems. With a sleek interface and progressively challenging levels covering addition, subtraction, multiplication, and division, the game provides a fun and accessible way to strengthen fundamental math skills.
 
 How to Install :
@@ -30,4 +27,11 @@ If you have any feedbacks/suggestions/problems you can reach me below.
 
 FB Page : https://web.facebook.com/profile.php?id=100087919354776</br>
 Email : codedev1212@gmail.com
+</br>
+</br>
+# Game Versions
+## 🎮 Version 1.0</br>
+- Add Game Modes
+
+
 
