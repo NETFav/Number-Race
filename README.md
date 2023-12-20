@@ -21,7 +21,7 @@ Specification :
 
 NOTE : The game is under development, some of you may experience (problems/issue/error).
 
-If you can't download the game from here you can download it from here : https://ufile.io/xp5ji6hb
+If you can't download the game from here you can download it from here : https://ufile.io/05o0ouu9
 
 If you have any feedbacks/suggestions/problems you can reach me below.
 
