@@ -32,6 +32,8 @@ Email : codedev1212@gmail.com
 # Game Versions
 ## 🎮 Version 1.0</br>
 - Add Game Modes
+## 🎮 Version 1.1</br>
+- Add Settings (For Main Menu Only)
 
 
 
